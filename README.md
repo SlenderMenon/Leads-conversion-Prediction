@@ -1,7 +1,4 @@
-# LeadScoringCaseStudy
-Upgrad Case Study by
-- Meenakshi Naik
-- Harshal Naik
+# LeadScoring
 - Siddharth Menon
 
 ## Lead Conversion Analysis
